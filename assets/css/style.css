@@ -105,4 +105,10 @@ textarea {
     height: 220px;
     background-color: #d9d9d9;
   }
+
+  #textCard {
+    position: absolute;
+    top: 230px;
+    left: 130px;
+  }
 }
