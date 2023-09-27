@@ -93,10 +93,16 @@ textarea {
 }
 
 @media screen and (max-width: 765px) {
-    body {
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        height: 90vh;
-      }
+  body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 90vh;
+  }
+
+  #card {
+    width: 320px;
+    height: 220px;
+    background-color: #d9d9d9;
+  }
 }
