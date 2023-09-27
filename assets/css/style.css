@@ -111,4 +111,11 @@ textarea {
     top: 230px;
     left: 130px;
   }
+
+  #container {
+    margin-left: 5px;
+    display: none;
+    width: 310px;
+    height: 110px;
+  }
 }
