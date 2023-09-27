@@ -5,4 +5,6 @@ function Send() {
     return;
   }
   document.getElementById("result").innerText = comentario;
+  alert("Comentário adicionado");
+
 }
