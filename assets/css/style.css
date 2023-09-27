@@ -121,5 +121,9 @@ textarea {
 
   #textCard2 {
     display: none;
-   }
+  }
+
+  #result {
+    margin: -70px 110px;
+  }
 }
