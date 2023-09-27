@@ -69,25 +69,27 @@ textarea {
 }
 
 #profile2 img {
-    margin: 30px;
-    width: 55px;
-    height: 55px;
-    border-radius: 50%;
-  }
+  margin: 30px;
+  width: 55px;
+  height: 55px;
+  border-radius: 50%;
+}
 
-  #textCard2 {
-    position: absolute;
-    top: 545px;
-    left: 655px;
-    font-size: 16px;
-  }
+#textCard2 {
+  position: absolute;
+  top: 545px;
+  left: 655px;
+  font-size: 16px;
+}
 
-  #name2 {
-    color: #564f4f;
-    font-weight: 500;
-  }
+#name2 {
+  color: #564f4f;
+  font-weight: 500;
+}
 
-  #result {
-    margin: -70px 50px;
-    float: right;
-  }
+#result {
+  margin: -70px 50px;
+  float: right;
+}
+
+@media screen and (max-width: 765px) {}
