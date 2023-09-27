@@ -50,3 +50,12 @@ textarea {
   font-family: "Inter";
   border-radius: 3px;
 }
+
+#buttonSend {
+    border: none;
+    cursor: pointer;
+    font-size: 14px;
+    color: #5933d6;
+    background-color: #d9d9d9;
+  }
+  
