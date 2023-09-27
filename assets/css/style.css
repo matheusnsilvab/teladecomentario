@@ -86,3 +86,8 @@ textarea {
     color: #564f4f;
     font-weight: 500;
   }
+
+  #result {
+    margin: -70px 50px;
+    float: right;
+  }
