@@ -29,6 +29,13 @@ body {
   border-radius: 50%;
 }
 
+#textCard {
+  position: absolute;
+  top: 300px;
+  left: 610px;
+  font-size: 16px;
+}
+
 #name {
   color: #564f4f;
   font-weight: 500;
