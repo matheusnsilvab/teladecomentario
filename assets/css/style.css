@@ -81,3 +81,8 @@ textarea {
     left: 655px;
     font-size: 16px;
   }
+
+  #name2 {
+    color: #564f4f;
+    font-weight: 500;
+  }
