@@ -74,3 +74,10 @@ textarea {
     height: 55px;
     border-radius: 50%;
   }
+
+  #textCard2 {
+    position: absolute;
+    top: 545px;
+    left: 655px;
+    font-size: 16px;
+  }
