@@ -7,10 +7,17 @@
 }
 
 body {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100vh;
-    font-family: "Inter", sans-serif;
-    background-color: #2d2a2a;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  font-family: "Inter", sans-serif;
+  background-color: #2d2a2a;
+}
+
+#card {
+    width: 520px;
+    height: 220px;
+    border-radius: 5px;
+    background-color: #d9d9d9;
   }
