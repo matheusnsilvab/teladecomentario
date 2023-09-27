@@ -28,3 +28,8 @@ body {
     height: 60px;
     border-radius: 50%;
   }
+
+  #name {
+    color: #564f4f;
+    font-weight: 500;
+  }
