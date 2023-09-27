@@ -118,4 +118,8 @@ textarea {
     width: 310px;
     height: 110px;
   }
+
+  #textCard2 {
+    display: none;
+   }
 }
