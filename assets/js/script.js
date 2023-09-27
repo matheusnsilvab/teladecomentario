@@ -6,5 +6,6 @@ function Send() {
   }
   document.getElementById("result").innerText = comentario;
   alert("Comentário adicionado");
+  document.getElementById("addComment").value = "";
 
 }
