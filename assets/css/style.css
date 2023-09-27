@@ -16,27 +16,37 @@ body {
 }
 
 #card {
-    width: 520px;
-    height: 220px;
-    border-radius: 5px;
-    background-color: #d9d9d9;
-  }
+  width: 520px;
+  height: 220px;
+  border-radius: 5px;
+  background-color: #d9d9d9;
+}
 
-  #profile img {
-    margin: 30px;
-    width: 60px;
-    height: 60px;
-    border-radius: 50%;
-  }
+#profile img {
+  margin: 30px;
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+}
 
-  #name {
-    color: #564f4f;
-    font-weight: 500;
-  }
+#name {
+  color: #564f4f;
+  font-weight: 500;
+}
 
-  #comment {
-    margin-top: 30px;
-    display: flex;
-    justify-content: space-evenly;
-    align-items: center;
-  }
+#comment {
+  margin-top: 30px;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+textarea {
+  padding: 5px;
+  width: 80%;
+  border: none;
+  outline: none;
+  resize: none;
+  font-family: "Inter";
+  border-radius: 3px;
+}
